@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Udemy\bin\Debug\Udemy.exe.config
+C:\Users\User\Desktop\Udemy\bin\Debug\Udemy.exe
+C:\Users\User\Desktop\Udemy\bin\Debug\Udemy.pdb
+C:\Users\User\Desktop\Udemy\obj\Debug\Udemy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Udemy\obj\Debug\Udemy.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Udemy\obj\Debug\Udemy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Udemy\obj\Debug\Udemy.exe
+C:\Users\User\Desktop\Udemy\obj\Debug\Udemy.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Робота з файлами\bin\Debug\Робота з файлами.exe.config
+C:\Users\User\Desktop\Робота з файлами\bin\Debug\Робота з файлами.exe
+C:\Users\User\Desktop\Робота з файлами\bin\Debug\Робота з файлами.pdb
+C:\Users\User\Desktop\Робота з файлами\obj\Debug\Робота з файлами.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Робота з файлами\obj\Debug\Робота з файлами.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Робота з файлами\obj\Debug\Робота з файлами.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Робота з файлами\obj\Debug\Робота з файлами.exe
+C:\Users\User\Desktop\Робота з файлами\obj\Debug\Робота з файлами.pdb
