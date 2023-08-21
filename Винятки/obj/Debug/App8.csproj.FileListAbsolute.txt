@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\App8\bin\Debug\App8.exe.config
+C:\Users\User\Desktop\C#\App8\bin\Debug\App8.exe
+C:\Users\User\Desktop\C#\App8\bin\Debug\App8.pdb
+C:\Users\User\Desktop\C#\App8\obj\Debug\App8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\App8\obj\Debug\App8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\App8\obj\Debug\App8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\App8\obj\Debug\App8.exe
+C:\Users\User\Desktop\C#\App8\obj\Debug\App8.pdb
+C:\Users\User\Desktop\C#\Винятки\bin\Debug\App8.exe.config
+C:\Users\User\Desktop\C#\Винятки\bin\Debug\App8.exe
+C:\Users\User\Desktop\C#\Винятки\bin\Debug\App8.pdb
+C:\Users\User\Desktop\C#\Винятки\obj\Debug\App8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Винятки\obj\Debug\App8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Винятки\obj\Debug\App8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Винятки\obj\Debug\App8.exe
+C:\Users\User\Desktop\C#\Винятки\obj\Debug\App8.pdb

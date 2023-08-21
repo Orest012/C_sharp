@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\App2_Д.З\bin\Debug\App2_Д.З.exe.config
+C:\Users\User\Desktop\C#\App2_Д.З\bin\Debug\App2_Д.З.exe
+C:\Users\User\Desktop\C#\App2_Д.З\bin\Debug\App2_Д.З.pdb
+C:\Users\User\Desktop\C#\App2_Д.З\obj\Debug\App2_Д.З.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\App2_Д.З\obj\Debug\App2_Д.З.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\App2_Д.З\obj\Debug\App2_Д.З.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\App2_Д.З\obj\Debug\App2_Д.З.exe
+C:\Users\User\Desktop\C#\App2_Д.З\obj\Debug\App2_Д.З.pdb

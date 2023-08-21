@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\Work with files\bin\Debug\Work with files.exe.config
+C:\Users\User\Desktop\C#\Work with files\bin\Debug\Work with files.exe
+C:\Users\User\Desktop\C#\Work with files\bin\Debug\Work with files.pdb
+C:\Users\User\Desktop\C#\Work with files\obj\Debug\Work with files.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Work with files\obj\Debug\Work with files.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Work with files\obj\Debug\Work with files.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Work with files\obj\Debug\Work with files.exe
+C:\Users\User\Desktop\C#\Work with files\obj\Debug\Work with files.pdb

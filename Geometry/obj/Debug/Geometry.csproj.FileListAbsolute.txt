@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\User\Desktop\C#\Geometry\bin\Debug\Geometry.exe
+C:\Users\User\Desktop\C#\Geometry\bin\Debug\Geometry.pdb
+C:\Users\User\Desktop\C#\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Geometry\obj\Debug\Geometry.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Geometry\obj\Debug\Geometry.exe
+C:\Users\User\Desktop\C#\Geometry\obj\Debug\Geometry.pdb

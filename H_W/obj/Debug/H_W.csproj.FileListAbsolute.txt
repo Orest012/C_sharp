@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\H_W\bin\Debug\H_W.exe.config
+C:\Users\User\Desktop\C#\H_W\bin\Debug\H_W.exe
+C:\Users\User\Desktop\C#\H_W\bin\Debug\H_W.pdb
+C:\Users\User\Desktop\C#\H_W\obj\Debug\H_W.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\H_W\obj\Debug\H_W.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\H_W\obj\Debug\H_W.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\H_W\obj\Debug\H_W.exe
+C:\Users\User\Desktop\C#\H_W\obj\Debug\H_W.pdb

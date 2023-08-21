@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\bin\Debug\Асинхроність_та_Багатопоточність.exe.config
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\bin\Debug\Асинхроність_та_Багатопоточність.exe
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\bin\Debug\Асинхроність_та_Багатопоточність.pdb
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\obj\Debug\Асинхроність_та_Багатопоточність.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\obj\Debug\Асинхроність_та_Багатопоточність.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\obj\Debug\Асинхроність_та_Багатопоточність.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\obj\Debug\Асинхроність_та_Багатопоточність.exe
+C:\Users\User\Desktop\C#\Асинхроність_та_Багатопоточність\obj\Debug\Асинхроність_та_Багатопоточність.pdb

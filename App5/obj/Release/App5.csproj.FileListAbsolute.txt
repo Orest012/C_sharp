@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\App5\bin\Release\App5.exe.config
+C:\Users\User\Desktop\C#\App5\bin\Release\App5.exe
+C:\Users\User\Desktop\C#\App5\bin\Release\App5.pdb
+C:\Users\User\Desktop\C#\App5\obj\Release\App5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\App5\obj\Release\App5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\App5\obj\Release\App5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\App5\obj\Release\App5.exe
+C:\Users\User\Desktop\C#\App5\obj\Release\App5.pdb

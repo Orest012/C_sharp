@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\App4_TypeData\bin\Release\App4_TypeData.exe.config
+C:\Users\User\Desktop\C#\App4_TypeData\bin\Release\App4_TypeData.exe
+C:\Users\User\Desktop\C#\App4_TypeData\bin\Release\App4_TypeData.pdb
+C:\Users\User\Desktop\C#\App4_TypeData\obj\Release\App4_TypeData.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\App4_TypeData\obj\Release\App4_TypeData.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\App4_TypeData\obj\Release\App4_TypeData.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\App4_TypeData\obj\Release\App4_TypeData.exe
+C:\Users\User\Desktop\C#\App4_TypeData\obj\Release\App4_TypeData.pdb
